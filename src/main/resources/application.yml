@@ -2,7 +2,7 @@ spring:
   ai:
     openai:
       base-url: api.openai.com
-      api-key: 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
+      api-key: fKdk
       chat:
         options:
           model: gpt-3.5-turbo
